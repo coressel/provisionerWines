@@ -23,10 +23,6 @@ post_date: 2015-03-22 20:21:37
 Blending and bottling in June 2015. Stay tuned![/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="parallax" anchor="about" in_content_menu="in_content_menu" content_menu_title="Vineyard" background_image="76" css=".vc_custom_1428692560213{background-color: #686868 !important;}"][vc_column][vc_row_inner type="grid"][vc_column_inner][vc_empty_space height="132px"][vc_column_text]
 <h2 style="text-align: center;"><span style="color: #f4f2eb;">Bona Fide Pure Arizona</span></h2>
 [/vc_column_text][vc_separator type="small" up="20" down="20"][vc_column_text]
-<h4 style="text-align: center;"><span style="color: #f2eee9;">Fort Bowie Vineyard • Cochise County, Arizona</span></h4>
-<p style="text-align: center;"><span style="color: #f2eee9; font-weight: 500;"> Fort Bowie Vineyards is the second oldest vineyard in the state. Planted in 1984, the massive French Colombard vines on the site are a big as a foot in trunk diameter. Additionally, the deep, loamy soils and warm summers (the warmest of our vineyards) lend to fruit driven wines that are approachable and young.</span></p>
-<p style="text-align: center;"><span style="color: #f2eee9; font-weight: 500;">At an elevation of 3750 feet, Fort Bowie has two distinct vineyards, the Shop block and Lacey’s block. With 23 acres and 7 acres, respectively, these vineyards consistently give us stellar, high-quality fruit. </span></p>
-[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_accordion collapsible="yes" style="boxed_toggle" title="Locations"][vc_accordion_tab title="Learm more about our source vineyards" title_color="#ffffff" background_color="rgba(86,86,86,0.01)" title_tag="h5"][vc_column_text]
 <div class="wpb_text_column wpb_content_element ">
 <div class="wpb_wrapper">
 <h4 style="text-align: center;"><span style="color: #f2eded;">Bonita Springs Vineyard • Graham County, AZ</span></h4>
@@ -35,7 +31,7 @@ Blending and bottling in June 2015. Stay tuned![/vc_column_text][/vc_column_inne
 
 </div>
 </div>
-[/vc_column_text][/vc_accordion_tab][/vc_accordion][vc_row_inner][vc_column_inner][vc_empty_space height="132px"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column][/vc_column][/vc_row][vc_row type="grid" anchor="contact" in_content_menu="in_content_menu" content_menu_title="Find Us" padding_top="50" padding_bottom="50"][vc_column][vc_column_text]
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner][vc_column_inner][vc_empty_space height="132px"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column][/vc_column][/vc_row][vc_row type="grid" anchor="contact" in_content_menu="in_content_menu" content_menu_title="Find Us" padding_top="50" padding_bottom="50"][vc_column][vc_column_text]
 <h2 style="text-align: center;">Where To Find Us</h2>
 [/vc_column_text][vc_separator type="small" up="20" down="20"][vc_column_text]
 <p style="text-align: center;">Provisioner Wines can be found at grocery stores, restaurants and bars throughout Arizona.</p>
