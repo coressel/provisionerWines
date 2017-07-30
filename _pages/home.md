@@ -16,16 +16,18 @@ post_date: 2015-03-22 20:21:37
 <h3 style="text-align: right;">Provisioner White</h3>
 <p style="text-align: right;"><em>57% French Colombard 30% Chenin Blanc 13% Malvasia</em></p>
 <p style="text-align: right;">The Provisioner White is fresh, crisp and fruity with perfect amount of body. It’s wonderful as an accompaniment to a light lunch, with serious dinner foods and, of course, all by itself.</p>
+
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/2"][vc_single_image image="221" img_size="full"][/vc_column_inner][/vc_row_inner][vc_empty_space height="82px"][vc_row_inner][vc_column_inner width="1/2"][vc_single_image image="222" img_size="full"][/vc_column_inner][vc_column_inner width="1/2"][vc_column_text]
 <h3>Provisioner Red</h3>
 <em>60% Merlot 14% Syrah 14% Barbera 12% Pinot Noir</em>
 
-Blending and bottling in June 2015. Stay tuned![/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="parallax" anchor="about" in_content_menu="in_content_menu" content_menu_title="Vineyard" background_image="76" css=".vc_custom_1428692560213{background-color: #686868 !important;}"][vc_column][vc_row_inner type="grid"][vc_column_inner][vc_empty_space height="132px" css=".vc_custom_1501400744824{background-image: url(http://www.provisionerwine.com/wp-content/uploads/2015/03/bonitaspringsvineyard-8.jpg?id=76) !important;}"][vc_column_text]
+Blending and bottling in June 2015. Stay tuned![/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="parallax" anchor="about" in_content_menu="in_content_menu" content_menu_title="Vineyard" background_image="76" css=".vc_custom_1428692560213{background-color: #686868 !important;}"][vc_column][vc_row_inner type="grid"][vc_column_inner][vc_empty_space height="132px"][vc_column_text]
 <h2 style="text-align: center;"><span style="color: #f4f2eb;">Bona Fide Pure Arizona</span></h2>
 [/vc_column_text][vc_separator type="small" up="20" down="20"][vc_column_text]
 <h4 style="text-align: center;"><span style="color: #f2eee9;">Fort Bowie Vineyard • Cochise County, Arizona</span></h4>
 <p style="text-align: center;"><span style="color: #f2eee9; font-weight: 500;"> Fort Bowie Vineyards is the second oldest vineyard in the state. Planted in 1984, the massive French Colombard vines on the site are a big as a foot in trunk diameter. Additionally, the deep, loamy soils and warm summers (the warmest of our vineyards) lend to fruit driven wines that are approachable and young.</span></p>
 <p style="text-align: center;"><span style="color: #f2eee9; font-weight: 500;">At an elevation of 3750 feet, Fort Bowie has two distinct vineyards, the Shop block and Lacey’s block. With 23 acres and 7 acres, respectively, these vineyards consistently give us stellar, high-quality fruit. </span></p>
+
 [/vc_column_text][/vc_column_inner][/vc_row_inner][vc_accordion collapsible="yes" style="boxed_toggle" title="Locations"][vc_accordion_tab title="Learm more about our source vineyards" title_color="#ffffff" background_color="rgba(86,86,86,0.01)" title_tag="h5"][vc_column_text]
 <div class="wpb_text_column wpb_content_element ">
 <div class="wpb_wrapper">
@@ -39,6 +41,8 @@ Blending and bottling in June 2015. Stay tuned![/vc_column_text][/vc_column_inne
 <h2 style="text-align: center;">Where To Find Us</h2>
 [/vc_column_text][vc_separator type="small" up="20" down="20"][vc_column_text]
 <p style="text-align: center;">Provisioner Wines can be found at grocery stores, restaurants and bars throughout Arizona.</p>
+
 [/vc_column_text][vc_empty_space][icons icon="fa-map-marker" size="fa-3x" position="center" icon_animation="q_icon_animation" icon_color="#0f0f0e"][vc_accordion collapsible="yes" style="boxed_toggle" title="Locations"][vc_accordion_tab title="See Our Current Locations List" background_color="#f4f2eb" title_tag="h6"][vc_column_text]
 <p style="text-align: center;">Coming Soon</p>
+
 [/vc_column_text][/vc_accordion_tab][/vc_accordion][vc_empty_space height="82px"][/vc_column][/vc_row]
