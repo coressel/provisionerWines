@@ -20,7 +20,7 @@ post_date: 2015-03-22 20:21:37
 <h3>Provisioner Red</h3>
 <em>60% Merlot 14% Syrah 14% Barbera 12% Pinot Noir</em>
 
-Blending and bottling in June 2015. Stay tuned![/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="parallax" anchor="about" in_content_menu="in_content_menu" content_menu_title="Vineyard" background_image="76" css=".vc_custom_1428692560213{background-color: #686868 !important;}"][vc_column][vc_row_inner type="grid"][vc_column_inner][vc_empty_space height="132px"][vc_column_text]
+Blending and bottling in June 2015. Stay tuned![/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="parallax" anchor="about" in_content_menu="in_content_menu" content_menu_title="Vineyard" background_image="76" css=".vc_custom_1428692560213{background-color: #686868 !important;}"][vc_column][vc_row_inner type="grid"][vc_column_inner][vc_empty_space height="132px" css=".vc_custom_1501400744824{background-image: url(http://www.provisionerwine.com/wp-content/uploads/2015/03/bonitaspringsvineyard-8.jpg?id=76) !important;}"][vc_column_text]
 <h2 style="text-align: center;"><span style="color: #f4f2eb;">Bona Fide Pure Arizona</span></h2>
 [/vc_column_text][vc_separator type="small" up="20" down="20"][vc_column_text]
 <h4 style="text-align: center;"><span style="color: #f2eee9;">Fort Bowie Vineyard • Cochise County, Arizona</span></h4>
