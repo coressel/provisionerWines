@@ -25,7 +25,7 @@ Blending and bottling in June 2015. Stay tuned![/vc_column_text][/vc_column_inne
 [/vc_column_text][vc_separator type="small" position="center" up="20" down="20"][vc_column_text]
 <div class="wpb_text_column wpb_content_element ">
 <div class="wpb_wrapper">
-<h4 style="text-align: center;"><span style="color: #f2eded;">Bonita Springs Vineyard • Graham County, AZ</span></h4>
+<h3 style="text-align: center;"><span style="color: #f2eded;">Bonita Springs Vineyard • Graham County, AZ</span></h3>
 <p style="text-align: center;"><span style="color: #f5f0f0;">Bonita Springs can be found on the northwestern extremus of the Willcox basin in southeastern Arizona.  Planted in 1991 by the Minchella family of Arizona and the Lescombes family of France, Arizona Stronghold had the honor of taking over ownership and management in 2009.  Nestled at 4300 feet between the massive flanks of Mount Graham and the rugged Winchester Mountains, Bonita is the coolest of all the sites we work with.  The deep soils here are a mix of decomposed granite and valley loams and persistent <em>mistral</em>style winds grace the site, cooling the vines while also reducing fungal pressure.</span></p>
 <p style="text-align: center;"><span style="color: #f5f0f0;">Bonita is planted to the great Cabernet Sauvignon, Merlot and Cabernet Franc as well as Pinot Noir, Nebbiolo, Sangiovese, Chardonnay, Pinot Gris, Malvasia, Riesling, Gewurztraminer and Muscat.  In 2015, we will plant ten new acres of Malbec, Petite Verdot, Cabernet Franc, Mourvedre, Malvasia and Cabernet Pfeffer.</span></p>
 
