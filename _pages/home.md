@@ -39,4 +39,6 @@ post_date: 2015-03-22 20:21:37
 <h2 style="text-align: center;">Where To Find Us</h2>
 [/vc_column_text][vc_separator type="small" position="center" up="20" down="20"][vc_column_text]
 <p style="text-align: center;">Provisioner Wines can be found at grocery stores, restaurants and bars throughout Arizona.</p>
-[/vc_column_text][vc_empty_space][icons icon="fa-envelope" size="fa-4x" type="normal" position="center" icon_animation="q_icon_animation" target="_self" icon_color="#0f0f0e"][contact-form-7 id="387" html_class="cf7_custom_style_1"][vc_empty_space height="82px"][/vc_column][/vc_row]
+[/vc_column_text][vc_empty_space][vc_column_text]
+<h1>Become a Provisioner</h1>
+[/vc_column_text][contact-form-7 id="387" html_class="cf7_custom_style_1"][vc_empty_space height="82px"][/vc_column][/vc_row]
