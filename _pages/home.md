@@ -41,5 +41,5 @@ post_date: 2015-03-22 20:21:37
 <p style="text-align: center;">Provisioner Wines can be found at grocery stores, restaurants and bars throughout Arizona.</p>
 [/vc_column_text][vc_empty_space][vc_column_text]
 <h3 style="text-align: center;">Become a Provisioner</h3>
-<h6>If you are looking to add it to your inventory or menu, please let us know</h6>
+<h6 style="text-align: center;"><em>If you are looking for information to add Provisioner to your inventory or menu, please let us know</em></h6>
 [/vc_column_text][contact-form-7 id="387" html_class="cf7_custom_style_1"][vc_empty_space height="82px"][/vc_column][/vc_row]
