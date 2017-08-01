@@ -35,7 +35,7 @@ post_date: 2015-03-22 20:21:37
 
 </div>
 </div>
-[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation=""][vc_column_inner][vc_empty_space height="132px"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row css_animation="" row_type="row" use_row_as_full_screen_section="no" type="grid" anchor="contact" in_content_menu="in_content_menu" content_menu_title="Find Us" content_menu_icon="" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" padding_top="50" padding_bottom="50"][vc_column][qode_horizontal_marquee height="120" spacing="5"][qode_horizontal_marquee_item align="top" width="25"][vc_gallery interval="3" images="405,399,404,400" title="partnerSlides"][/qode_horizontal_marquee_item][/qode_horizontal_marquee][vc_column_text]
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation=""][vc_column_inner][vc_empty_space height="132px"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row css_animation="" row_type="row" use_row_as_full_screen_section="no" type="grid" anchor="contact" in_content_menu="in_content_menu" content_menu_title="Find Us" content_menu_icon="" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" padding_top="50" padding_bottom="50"][vc_column][qode_carousel carousel="" number_of_visible_items=""][vc_column_text]
 <h2 style="text-align: center;">Where To Find Us</h2>
 [/vc_column_text][vc_separator type="small" position="center" up="40" down="40"][vc_empty_space][vc_column_text]
 <h2 style="text-align: center;">Become a Provisioner</h2>
