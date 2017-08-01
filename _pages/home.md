@@ -37,7 +37,7 @@ post_date: 2015-03-22 20:21:37
 </div>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner row_type="row" type="full_width" text_align="left" css_animation=""][vc_column_inner][vc_empty_space height="132px"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row css_animation="" row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern"][vc_column][/vc_column][/vc_row][vc_row css_animation="" row_type="row" use_row_as_full_screen_section="no" type="grid" anchor="contact" in_content_menu="in_content_menu" content_menu_title="Find Us" content_menu_icon="" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" padding_top="50" padding_bottom="50"][vc_column][vc_column_text]
 <h2 style="text-align: center;">Where To Find Us</h2>
-[/vc_column_text][image_slider_no_space height="120px" navigation_style="dark" highlight_active_image="yes" images="400,405,402,403,404"][vc_separator type="small" position="center" up="20" down="20"][vc_empty_space][vc_column_text]
+[/vc_column_text][image_slider_no_space height="120" navigation_style="dark" highlight_active_image="yes" images="399,400,405,402"][vc_separator type="small" position="center" up="20" down="20"][vc_empty_space][vc_column_text]
 <h2 style="text-align: center;">Become a Provisioner</h2>
 <h6 style="text-align: center;"><em>If you are looking for information to add Provisioner to your inventory or menu, please let us know</em></h6>
 [/vc_column_text][contact-form-7 id="387" html_class="cf7_custom_style_1"][vc_empty_space height="82px"][/vc_column][/vc_row]
