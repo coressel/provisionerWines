@@ -20,4 +20,4 @@ I am text block. Click edit button to change this text. Lorem ipsum dolor sit am
 
 I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
-[/vc_column_text][/vc_column][/vc_row][vc_row css_animation="" row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern"][vc_column][vc_btn title="Read Full Story" style="flat" color="chino" align="center"][/vc_column][/vc_row]
+[/vc_column_text][/vc_column][/vc_row][vc_row css_animation="" row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern"][vc_column][vc_column_text]Tickets will be available early next year![/vc_column_text][/vc_column][/vc_row]
