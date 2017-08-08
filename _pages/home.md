@@ -8,7 +8,7 @@ permalink: http://www.provisionerwine.com/
 published: true
 post_date: 2015-03-22 20:21:37
 ---
-[vc_row row_type="content_menu" background_color="#2b2b2b"][vc_column][/vc_column][/vc_row][vc_row css_animation="" row_type="row" use_row_as_full_screen_section="no" type="grid" anchor="#groundwork" in_content_menu="in_content_menu" content_menu_title="Groundwork" content_menu_icon="" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" padding_top="50" padding_bottom="50"][vc_column css=".vc_custom_1501476291115{padding-right: 100px !important;padding-bottom: 100px !important;padding-left: 100px !important;}"][vc_column_text]
+[vc_row row_type="content_menu" background_color="#2b2b2b"][vc_column][vc_single_image image="331" img_size="large" qode_css_animation=""][/vc_column][/vc_row][vc_row css_animation="" row_type="row" use_row_as_full_screen_section="no" type="grid" anchor="#groundwork" in_content_menu="in_content_menu" content_menu_title="Groundwork" content_menu_icon="" angled_section="no" text_align="left" background_image_as_pattern="without_pattern" padding_top="50" padding_bottom="50"][vc_column css=".vc_custom_1501476291115{padding-right: 100px !important;padding-bottom: 100px !important;padding-left: 100px !important;}"][vc_column_text]
 <h2 style="text-align: center;"> Groundwork</h2>
 [/vc_column_text][vc_separator type="small" position="center" up="20" down="20"][vc_column_text]In early frontier days the small-town general store was the social hub and lifeline for the hardy pioneers that settled the American Southwest. These stores, or provisioners, sold everything from nails to flour, blankets to whiskey. Arizona, despite efforts to tame her, is still a wild place with many secrets lying just below the surface. The most recent discovery is the propensity for the vine to thrive here and to yield a fine nectar that is indisputably Southwestern. Provisioner wines capture and share the soul of this place, and they do so in the spirit of the old-time general store: they support new exploration, they push us into new territory and make this quest we are on a little more honest and enjoyable. And all of this without breaking the bank. Drink well. <em>These are wines for the people!</em>[/vc_column_text][/vc_column][/vc_row][vc_row css_animation="" row_type="row" use_row_as_full_screen_section="no" type="grid" anchor="#wines" in_content_menu="in_content_menu" content_menu_title="Wines" content_menu_icon="" angled_section="no" text_align="left" background_image_as_pattern="without_pattern"][vc_column][vc_empty_space height="50px"][vc_column_text]
 <h2 style="text-align: center;">The Wines</h2>
@@ -16,14 +16,17 @@ post_date: 2015-03-22 20:21:37
 <h3>Provisioner White</h3>
 <i>White Table Wine</i>
 <p class="p1">The Provisioner White is an aromatic white blend that has balanced acidity to create a smooth and tantalizing palate. Aromas of lemon, pear, and starfruit compliment a smooth and refreshing crisp taste.</p>
+
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text]
 <h3>Provisioner Red</h3>
 <i>Proprietary Red Blend</i>
 <p class="p1">The Provisioner Red is rich and soft with ample acidity keeping it fresh and defined. loads of black cherry and red berries fill your mouth with a long, delicious finish.</p>
+
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text]
 <h3>Provisioner Rose</h3>
 <i>Pink Table Wine</i>
 <p class="p1">The Provisioner Rose is has refreshing notes of honeydew melon, grapefruit, Bing cherries and rose water. This wine shows rich fruit framed by crisp acidity and a clean mineral driven finish.</p>
+
 [/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="parallax" parallax_content_width="in_grid" anchor="about" in_content_menu="in_content_menu" content_menu_title="Vineyard" content_menu_icon="" text_align="left" background_image="76" full_screen_section_height="no" css=".vc_custom_1428692560213{background-color: #686868 !important;}"][vc_column][vc_row_inner row_type="row" type="grid" text_align="left" css_animation=""][vc_column_inner][vc_empty_space height="132px"][vc_column_text]
 <h2 style="text-align: center;"><span style="color: #f4f2eb;">VINEYARD</span></h2>
 [/vc_column_text][vc_separator type="small" position="center" up="20" down="20"][vc_column_text]
