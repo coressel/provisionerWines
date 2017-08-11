@@ -24,7 +24,7 @@ post_date: 2015-03-22 20:21:37
 <h3>Provisioner Rose</h3>
 <i>Pink Table Wine</i>
 <p class="p1">The Provisioner Rose is has refreshing notes of honeydew melon, grapefruit, Bing cherries and rose water. This wine shows rich fruit framed by crisp acidity and a clean mineral driven finish.</p>
-[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="parallax" parallax_content_width="in_grid" anchor="about" in_content_menu="in_content_menu" content_menu_title="Vineyard" content_menu_icon="" text_align="left" background_image="76" full_screen_section_height="no" css=".vc_custom_1428692560213{background-color: #686868 !important;}"][vc_column][vc_row_inner row_type="row" type="grid" text_align="left" css_animation=""][vc_column_inner][vc_empty_space height="132px"][vc_column_text]
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row css_animation="" row_type="row" use_row_as_full_screen_section="no" type="full_width" anchor="about" in_content_menu="in_content_menu" content_menu_title="Vineyard" content_menu_icon="" angled_section="no" text_align="left" background_image="76" background_image_as_pattern="without_pattern" css=".vc_custom_1502420887788{background-color: #686868 !important;}"][vc_column][vc_row_inner row_type="row" type="grid" text_align="left" css_animation=""][vc_column_inner][vc_empty_space height="132px"][vc_column_text]
 <h2 style="text-align: center;"><span style="color: #f4f2eb;">VINEYARD</span></h2>
 [/vc_column_text][vc_separator type="small" position="center" up="20" down="20"][vc_column_text]
 <div class="wpb_text_column wpb_content_element ">
