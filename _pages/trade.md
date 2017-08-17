@@ -27,22 +27,4 @@ post_date: 2015-03-22 21:19:38
 <h4 style="text-align: center;">Provisioner Red</h4>
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][vc_single_image image="603" img_size="full" alignment="center" style="vc_box_shadow_3d" onclick="custom_link" qode_css_animation="element_from_fade" link="http://www.provisionerwine.com/wp-content/uploads/2017/08/shelfTalkers16pink.pdf"][vc_column_text]
 <h4 style="text-align: center;">Provisioner Pink</h4>
-[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row css_animation="" row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern"][vc_column][vc_empty_space height="132px"][/vc_column][/vc_row][vc_row css_animation="" row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern"][vc_column width="1/3"][vc_text_separator title="Full Logo" border="no"][vc_empty_space][vc_single_image image="310" alignment="center" qode_css_animation=""][vc_column_text]
-<h4>White:</h4>
-<a href="http://www.provisionerwine.com/wp-content/uploads/2017/08/logoJpegs-02.jpg" target="_blank" rel="noopener">jpeg</a>
-
-png
-
-pdf[/vc_column_text][/vc_column][vc_column width="1/3"][vc_text_separator title="Partial Logo" border="no"][vc_empty_space][vc_single_image image="333" alignment="center" qode_css_animation=""][vc_column_text]
-<h4>White:</h4>
-<a href="http://www.provisionerwine.com/wp-content/uploads/2017/08/logoJpegs-02.jpg" target="_blank" rel="noopener">jpeg</a>
-
-png
-
-pdf[/vc_column_text][/vc_column][vc_column width="1/3"][vc_text_separator title="Pick Axe" border="no"][vc_empty_space][vc_single_image image="297" alignment="center" qode_css_animation=""][vc_column_text]
-<h4>White:</h4>
-<a href="http://www.provisionerwine.com/wp-content/uploads/2017/08/logoJpegs-02.jpg" target="_blank" rel="noopener">jpeg</a>
-
-png
-
-pdf[/vc_column_text][/vc_column][/vc_row]
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row css_animation="" row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern"][vc_column][vc_empty_space height="132px"][/vc_column][/vc_row][vc_row css_animation="" row_type="row" use_row_as_full_screen_section="no" type="full_width" angled_section="no" text_align="left" background_image_as_pattern="without_pattern"][vc_column width="1/3"][vc_text_separator title="Full Logo" border="no"][vc_empty_space][vc_single_image image="310" alignment="center" qode_css_animation=""][vc_column_text]White:  <a href="http://www.provisionerwine.com/wp-content/uploads/2017/08/logoJpegs-02.jpg" target="_blank" rel="noopener">jpeg</a>  png  pdf[/vc_column_text][/vc_column][vc_column width="1/3"][vc_text_separator title="Partial Logo" border="no"][vc_empty_space][vc_single_image image="333" alignment="center" qode_css_animation=""][vc_column_text]White:  <a href="http://www.provisionerwine.com/wp-content/uploads/2017/08/logoJpegs-01.jpg" target="_blank" rel="noopener">jpeg</a>  png  pdf[/vc_column_text][/vc_column][vc_column width="1/3"][vc_text_separator title="Pick Axe" border="no"][vc_empty_space][vc_single_image image="297" alignment="center" qode_css_animation=""][vc_column_text]White:  <a href="http://www.provisionerwine.com/wp-content/uploads/2017/08/logoJpegs-02.jpg" target="_blank" rel="noopener">jpeg</a>  png  pdf[/vc_column_text][/vc_column][/vc_row]
