@@ -17,15 +17,15 @@ post_date: 2015-03-22 20:21:37
 [/vc_column_text][vc_row_inner row_type="row" type="grid" text_align="left" css_animation=""][vc_column_inner width="1/3"][vc_single_image image="380" img_size="medium" alignment="center" onclick="custom_link" qode_css_animation="" qode_hover_animation="zoom_in" link="http://www.provisionerwine.com/trade/"][vc_column_text]
 <h3><span style="color: #ffffff;">Provisioner White</span></h3>
 <span style="color: #ffffff;"><i>White Table Wine</i></span>
-<p class="p1"><span style="color: #ffffff;">The Provisioner White is an aromatic white blend that has balanced acidity to create a smooth and tantalizing palate. Aromas of lemon, pear, and starfruit compliment a smooth and refreshing crisp taste.</span></p>
+<p class="p1"><span style="color: #ffffff;">The Provisioner White is an aromatic white blend that has balanced acidity to create a smooth and tantalizing palate.</span></p>
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][vc_single_image image="382" img_size="medium" alignment="center" onclick="custom_link" qode_css_animation="" qode_hover_animation="zoom_in" link="http://www.provisionerwine.com/trade/"][vc_column_text]
 <h3><span style="color: #ffffff;">Provisioner Red</span></h3>
 <span style="color: #ffffff;"><i>Proprietary Red Blend</i></span>
-<p class="p1"><span style="color: #ffffff;">The Provisioner Red is rich and soft with ample acidity keeping it fresh and defined. loads of black cherry and red berries fill your mouth with a long, delicious finish.</span></p>
+<p class="p1"><span style="color: #ffffff;">The Provisioner Red is rich and soft with ample acidity keeping it fresh and defined.</span></p>
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][vc_single_image image="381" img_size="medium" alignment="center" onclick="custom_link" qode_css_animation="" qode_hover_animation="zoom_in" link="http://www.provisionerwine.com/trade/"][vc_column_text]
 <h3><span style="color: #ffffff;">Provisioner Rose</span></h3>
 <span style="color: #ffffff;"><i>Pink Table Wine</i></span>
-<p class="p1"><span style="color: #ffffff;">The Provisioner Rose is has refreshing notes of honeydew melon, grapefruit, Bing cherries and rose water. This wine shows rich fruit framed by crisp acidity and a clean mineral driven finish.</span></p>
+<p class="p1"><span style="color: #ffffff;">The Provisioner Rose is a delicious and great blend that adds some fun to your meal or your day! </span></p>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][vc_empty_space height="82px"][/vc_column][/vc_row][vc_row css_animation="" row_type="row" use_row_as_full_screen_section="no" type="full_width" anchor="about" in_content_menu="in_content_menu" content_menu_title="Vineyard" content_menu_icon="" angled_section="no" text_align="left" background_image="76" background_image_as_pattern="without_pattern" css=".vc_custom_1502420887788{background-color: #686868 !important;}"][vc_column][vc_row_inner row_type="row" type="grid" text_align="left" css_animation=""][vc_column_inner][vc_empty_space height="132px"][vc_column_text]
 <h2 style="text-align: center;"><span style="color: #f4f2eb;">VINEYARD</span></h2>
 [/vc_column_text][vc_separator type="small" position="center" up="20" down="20"][vc_column_text]
